@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Bvnkumar&color=green)
 - 👋 Hi, I’m @Bvnkumar
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning data structures.
+- 🌱 I’m currently learning data structures and design patterns.
 - Checkout my posts related to javascript here, https://dev.to/bvnkumar
 - Checkout my stackblitz projects, https://stackblitz.com/@Bvnkumar
 
